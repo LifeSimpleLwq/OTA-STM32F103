@@ -1,0 +1,244 @@
+Dependencies for Project 'LY-STM32', Target 'LY-STM32': (DO NOT MODIFY !)
+F (.\user\main.c)(0x5C00935F)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (user\Main.h)(0x5BF27204)
+I (user\stm32f10x_it.h)(0x5BBDA3C9)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Lib\inc\misc.h)(0x4D783BB4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (user\usart.h)(0x5BD81DDB)
+I (user\android.h)(0x5BF25837)
+I (user\led.h)(0x5BF257A2)
+I (user\watchdog.h)(0x5BBDACC4)
+I (.\User\BSP_Drivers\BSP_flash.h)(0x5C04A04E)
+I (.\User\BSP_Drivers\BSP_OTA.h)(0x5BF2723C)
+F (.\user\stm32f10x_it.c)(0x5BF2716F)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\stm32f10x_it.o --omf_browse .\obj\stm32f10x_it.crf --depend .\obj\stm32f10x_it.d)
+I (user\stm32f10x_it.h)(0x5BBDA3C9)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (user\main.h)(0x5BF27204)
+I (.\Lib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Lib\inc\misc.h)(0x4D783BB4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (user\usart.h)(0x5BD81DDB)
+I (user\android.h)(0x5BF25837)
+I (user\led.h)(0x5BF257A2)
+I (user\watchdog.h)(0x5BBDACC4)
+I (.\User\BSP_Drivers\BSP_flash.h)(0x5C04A04E)
+I (.\User\BSP_Drivers\BSP_OTA.h)(0x5BF2723C)
+F (.\User\usart.c)(0x5BD965C3)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\usart.o --omf_browse .\obj\usart.crf --depend .\obj\usart.d)
+I (User\usart.h)(0x5BD81DDB)
+I (User\main.h)(0x5BF27204)
+I (User\stm32f10x_it.h)(0x5BBDA3C9)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Lib\inc\misc.h)(0x4D783BB4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (User\android.h)(0x5BF25837)
+I (User\led.h)(0x5BF257A2)
+I (User\watchdog.h)(0x5BBDACC4)
+I (.\User\BSP_Drivers\BSP_flash.h)(0x5C04A04E)
+I (.\User\BSP_Drivers\BSP_OTA.h)(0x5BF2723C)
+F (.\User\android.c)(0x5BF27309)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\android.o --omf_browse .\obj\android.crf --depend .\obj\android.d)
+I (User\android.h)(0x5BF25837)
+I (User\main.h)(0x5BF27204)
+I (User\stm32f10x_it.h)(0x5BBDA3C9)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Lib\inc\misc.h)(0x4D783BB4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (User\usart.h)(0x5BD81DDB)
+I (User\led.h)(0x5BF257A2)
+I (User\watchdog.h)(0x5BBDACC4)
+I (.\User\BSP_Drivers\BSP_flash.h)(0x5C04A04E)
+I (.\User\BSP_Drivers\BSP_OTA.h)(0x5BF2723C)
+F (.\User\led.c)(0x5BF25807)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\led.o --omf_browse .\obj\led.crf --depend .\obj\led.d)
+I (User\led.h)(0x5BF257A2)
+I (User\main.h)(0x5BF27204)
+I (User\stm32f10x_it.h)(0x5BBDA3C9)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Lib\inc\misc.h)(0x4D783BB4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (User\usart.h)(0x5BD81DDB)
+I (User\android.h)(0x5BF25837)
+I (User\watchdog.h)(0x5BBDACC4)
+I (.\User\BSP_Drivers\BSP_flash.h)(0x5C04A04E)
+I (.\User\BSP_Drivers\BSP_OTA.h)(0x5BF2723C)
+F (.\User\watchdog.c)(0x5BB0A0AD)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\watchdog.o --omf_browse .\obj\watchdog.crf --depend .\obj\watchdog.d)
+I (User\watchdog.h)(0x5BBDACC4)
+I (User\main.h)(0x5BF27204)
+I (User\stm32f10x_it.h)(0x5BBDA3C9)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Lib\inc\misc.h)(0x4D783BB4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (User\usart.h)(0x5BD81DDB)
+I (User\android.h)(0x5BF25837)
+I (User\led.h)(0x5BF257A2)
+I (.\User\BSP_Drivers\BSP_flash.h)(0x5C04A04E)
+I (.\User\BSP_Drivers\BSP_OTA.h)(0x5BF2723C)
+F (.\User\BSP_Drivers\BSP_Flash.c)(0x5C04A090)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\bsp_flash.o --omf_browse .\obj\bsp_flash.crf --depend .\obj\bsp_flash.d)
+I (User\BSP_Drivers\BSP_flash.h)(0x5C04A04E)
+I (.\user\main.h)(0x5BF27204)
+I (.\user\stm32f10x_it.h)(0x5BBDA3C9)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Lib\inc\misc.h)(0x4D783BB4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (.\user\usart.h)(0x5BD81DDB)
+I (.\user\android.h)(0x5BF25837)
+I (.\user\led.h)(0x5BF257A2)
+I (.\user\watchdog.h)(0x5BBDACC4)
+I (.\User\BSP_Drivers\BSP_flash.h)(0x5C04A04E)
+I (.\User\BSP_Drivers\BSP_OTA.h)(0x5BF2723C)
+F (.\User\BSP_Drivers\BSP_OTA.c)(0x5C00DA4A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\bsp_ota.o --omf_browse .\obj\bsp_ota.crf --depend .\obj\bsp_ota.d)
+I (User\BSP_Drivers\BSP_OTA.h)(0x5BF2723C)
+I (.\user\main.h)(0x5BF27204)
+I (.\user\stm32f10x_it.h)(0x5BBDA3C9)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\Lib\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\Lib\inc\misc.h)(0x4D783BB4)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (.\user\usart.h)(0x5BD81DDB)
+I (.\user\android.h)(0x5BF25837)
+I (.\user\led.h)(0x5BF257A2)
+I (.\user\watchdog.h)(0x5BBDACC4)
+I (.\User\BSP_Drivers\BSP_flash.h)(0x5C04A04E)
+I (.\User\BSP_Drivers\BSP_OTA.h)(0x5BF2723C)
+F (.\asm\startup_stm32f10x_cl.s)(0x5BE3E74F)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "STM32F10X_CL SETA 1"--list .\startup_stm32f10x_cl.lst --xref -o .\obj\startup_stm32f10x_cl.o --depend .\obj\startup_stm32f10x_cl.d)
+F (.\Lib\SRC\stm32f10x_gpio.c)(0x50FCF82A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\stm32f10x_gpio.o --omf_browse .\obj\stm32f10x_gpio.crf --depend .\obj\stm32f10x_gpio.d)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\Lib\SRC\stm32f10x_rcc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\stm32f10x_rcc.o --omf_browse .\obj\stm32f10x_rcc.crf --depend .\obj\stm32f10x_rcc.d)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+F (.\Lib\SRC\misc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\misc.o --omf_browse .\obj\misc.crf --depend .\obj\misc.d)
+I (.\Lib\inc\misc.h)(0x4D783BB4)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\Lib\SRC\stm32f10x_exti.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\stm32f10x_exti.o --omf_browse .\obj\stm32f10x_exti.crf --depend .\obj\stm32f10x_exti.d)
+I (.\Lib\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\Lib\SRC\stm32f10x_flash.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\stm32f10x_flash.o --omf_browse .\obj\stm32f10x_flash.crf --depend .\obj\stm32f10x_flash.d)
+I (.\Lib\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\Lib\SRC\stm32f10x_usart.c)(0x548EF2DC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\stm32f10x_usart.o --omf_browse .\obj\stm32f10x_usart.crf --depend .\obj\stm32f10x_usart.d)
+I (.\Lib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (.\System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\System\core_cm3.c)(0x4C0C587E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\core_cm3.o --omf_browse .\obj\core_cm3.crf --depend .\obj\core_cm3.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+F (.\System\system_stm32f10x.c)(0x5B977D7E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I .\Lib\inc -I .\System -I .\user -I .\User\BSP_Drivers-I.\RTE\_LY-STM32-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (System\stm32f10x.h)(0x599B9576)
+I (System\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (System\system_stm32f10x.h)(0x4D783CAA)
+I (.\Lib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\Lib\inc\stm32f10x_gpio.h)(0x567138F6)
+I (.\System\stm32f10x.h)(0x599B9576)
+I (.\Lib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\Readme\README.TXT)(0x5BD97605)()
